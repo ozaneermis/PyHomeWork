@@ -1,0 +1,11 @@
+val1 = float(input("Enter your value1"))
+val2 = int(input("Enter your value2"))
+val3 = str(input("Enter your value3"))
+val4 = (input("Enter your value4"))
+val5 = (input("Enter your value5"))
+
+print(val1, type(val1))
+print(val2, type(val2))
+print(val3, type(val3))
+print(val4, type(val4))
+print(val5, type(val5))
